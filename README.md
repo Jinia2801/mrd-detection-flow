@@ -69,7 +69,7 @@ Both models approximate expert-annotated MRD scores with high accuracy.
 
 ## Main libraries:
 
- - `torch`
+ - `pytorch`
  - `scikit-learn`
  - `numpy, pandas`
  - `matplotlib, seaborn`
